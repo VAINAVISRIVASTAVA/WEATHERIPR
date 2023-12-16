@@ -1,1 +1,1 @@
-# WEATHERIPR
+This is a weather forecasting website names "FORECAST FIT DIET".This website predicts the weather with the help of API and gives advice on diet as per the weather it also has a swiggy gateway attached to it.
