@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+
+    <div class="container">
+
+        <div class="weather_container">
+            <div class="temp">
+                <p></p>
+            </div>
+
+            <div class="time_location">
+               <p></p>
+               <span></span>
+            </div>
+            
+            <div class="condition">
+                <img id="logo" src="" alt="">
+                <p></p>
+            </div>
+
+        </div>
+        <nav>
+            <form>
+                <div class="age">
+                    <input type='number' id="age" placeholder="Your age here"/>
+                </div>
+                <div class="diet-types">
+                    <div class="type">
+                        <input type='radio' checked name="diet-type" value="veg">
+                        <p>
+                            Vegeterian
+                        </p>
+                    </div>
+                    <div class="type">
+                        <input type='radio' name="diet-type" value="nonveg">
+                        <p>
+                            Non-Vegeterian
+                        </p>
+                    </div>
+                    <div class="type">
+                        <input type='radio' name="diet-type" value="vegan">
+                        <p>Vegan</p>
+                    </div>
+                </div>
+                <input type='text' placeholder="Search for a location" class="search_area"/>
+                <button type="submit">Suggest Diet</button>
+            </form>
+    
+        </nav>
+        <div class="result">
+            <ul>
+                <li class="dish" id="dish1">
+                    <img src="" alt="dish" class="dish-img">
+                    <span class="dish-name">Dish 1</span>
+                    <span class="calorie">100 Calorie</span>
+                    <a class="order">Order Now</a>
+                    
+                </li>
+                <!-- <li class="dish" id="dish2">
+                    <span class="dish-name">Dish 2</span>
+                    <span class="calorie">200 Calorie</span>
+                </li>
+                <li class="dish" id="dish3">
+                    <span class="dish-name">Dish 3</span>
+                    <span class="calorie">150 Calorie</span> -->
+                </li>
+                <!-- <li class="dish" id="dish2">Dish 2</li>
+                <li class="dish" id="dish3">Dish 3</li> -->
+            </ul>
+        </div>
+    </div>
+
+
+</body>
+<script src="script.js"></script>
+</html>

@@ -1,0 +1,3206 @@
+{
+    "data" : {
+        "infants": {
+            "1000": {
+                "veg": [
+                    "Khichdi",
+                    120
+                ],
+                "nonveg": [
+                    "Mashed Chicken",
+                    150
+                ],
+                "vegan": [
+                    "Mashed Vegetables",
+                    100
+                ]
+            },
+            "1003": {
+                "veg": [
+                    "Poha",
+                    110
+                ],
+                "nonveg": [
+                    "Minced Chicken",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Upma",
+                    90
+                ]
+            },
+            "1006": {
+                "veg": [
+                    "Vegetable Khichdi",
+                    130
+                ],
+                "nonveg": [
+                    "Mutton Puree",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Porridge",
+                    110
+                ]
+            },
+            "1009": {
+                "veg": [
+                    "Rice Cereal",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Congee",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Rice Cereal",
+                    100
+                ]
+            },
+            "1030": {
+                "veg": [
+                    "Mashed Banana",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    110
+                ],
+                "vegan": [
+                    "Mashed Avocado",
+                    70
+                ]
+            },
+            "1063": {
+                "veg": [
+                    "Steamed Carrots",
+                    90
+                ],
+                "nonveg": [
+                    "Chicken Puree",
+                    120
+                ],
+                "vegan": [
+                    "Steamed Sweet Potato",
+                    80
+                ]
+            },
+            "1066": {
+                "veg": [
+                    "Vegetable Soup",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    130
+                ],
+                "vegan": [
+                    "Vegan Vegetable Soup",
+                    90
+                ]
+            },
+            "1069": {
+                "veg": [
+                    "Vegetable Porridge",
+                    110
+                ],
+                "nonveg": [
+                    "Chicken Porridge",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Porridge",
+                    100
+                ]
+            },
+            "1072": {
+                "veg": [
+                    "Lentil Soup",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken and Vegetable Soup",
+                    130
+                ],
+                "vegan": [
+                    "Vegan Lentil Soup",
+                    90
+                ]
+            },
+            "1114": {
+                "veg": [
+                    "Mixed Vegetable Puree",
+                    110
+                ],
+                "nonveg": [
+                    "Minced Meat and Potato",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Mixed Vegetable Puree",
+                    100
+                ]
+            },
+            "1117": {
+                "veg": [
+                    "Mashed Pumpkin",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    110
+                ],
+                "vegan": [
+                    "Mashed Butternut Squash",
+                    70
+                ]
+            },
+            "1135": {
+                "veg": [
+                    "Semolina Porridge",
+                    90
+                ],
+                "nonveg": [
+                    "Mashed Chicken and Rice",
+                    120
+                ],
+                "vegan": [
+                    "Vegan Semolina Porridge",
+                    80
+                ]
+            },
+            "1147": {
+                "veg": [
+                    "Vegetable Khichdi",
+                    120
+                ],
+                "nonveg": [
+                    "Mutton Puree",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Porridge",
+                    100
+                ]
+            },
+            "1150": {
+                "veg": [
+                    "Mashed Peas",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    130
+                ],
+                "vegan": [
+                    "Mashed Avocado",
+                    90
+                ]
+            },
+            "1153": {
+                "veg": [
+                    "Sweet Potato Puree",
+                    90
+                ],
+                "nonveg": [
+                    "Chicken Puree",
+                    120
+                ],
+                "vegan": [
+                    "Vegan Sweet Potato Puree",
+                    80
+                ]
+            },
+            "1168": {
+                "veg": [
+                    "Rice Cereal",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Congee",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Rice Cereal",
+                    100
+                ]
+            },
+            "1171": {
+                "veg": [
+                    "Mashed Carrots",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    110
+                ],
+                "vegan": [
+                    "Mashed Butternut Squash",
+                    70
+                ]
+            },
+            "1180": {
+                "veg": [
+                    "Lentil Soup",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken and Vegetable Soup",
+                    130
+                ],
+                "vegan": [
+                    "Vegan Lentil Soup",
+                    90
+                ]
+            },
+            "1183": {
+                "veg": [
+                    "Mixed Vegetable Puree",
+                    110
+                ],
+                "nonveg": [
+                    "Minced Meat and Potato",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Mixed Vegetable Puree",
+                    100
+                ]
+            },
+            "1186": {
+                "veg": [
+                    "Mashed Potato",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    130
+                ],
+                "vegan": [
+                    "Mashed Sweet Potato",
+                    90
+                ]
+            },
+            "1189": {
+                "veg": [
+                    "Rice Porridge",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Congee",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Rice Porridge",
+                    100
+                ]
+            },
+            "1192": {
+                "veg": [
+                    "Banana Puree",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken Puree",
+                    110
+                ],
+                "vegan": [
+                    "Vegan Banana Puree",
+                    70
+                ]
+            },
+            "1195": {
+                "veg": [
+                    "Khichdi",
+                    120
+                ],
+                "nonveg": [
+                    "Mashed Chicken",
+                    150
+                ],
+                "vegan": [
+                    "Mashed Vegetables",
+                    100
+                ]
+            },
+            "1198": {
+                "veg": [
+                    "Poha",
+                    110
+                ],
+                "nonveg": [
+                    "Minced Chicken",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Upma",
+                    90
+                ]
+            },
+            "1201": {
+                "veg": [
+                    "Vegetable Khichdi",
+                    130
+                ],
+                "nonveg": [
+                    "Mutton Puree",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Porridge",
+                    110
+                ]
+            },
+            "1204": {
+                "veg": [
+                    "Rice Cereal",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Congee",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Rice Cereal",
+                    100
+                ]
+            },
+            "1207": {
+                "veg": [
+                    "Mashed Banana",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    110
+                ],
+                "vegan": [
+                    "Mashed Avocado",
+                    70
+                ]
+            },
+            "1210": {
+                "veg": [
+                    "Steamed Carrots",
+                    90
+                ],
+                "nonveg": [
+                    "Chicken Puree",
+                    120
+                ],
+                "vegan": [
+                    "Steamed Sweet Potato",
+                    80
+                ]
+            },
+            "1213": {
+                "veg": [
+                    "Vegetable Soup",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    130
+                ],
+                "vegan": [
+                    "Vegan Vegetable Soup",
+                    90
+                ]
+            },
+            "1216": {
+                "veg": [
+                    "Vegetable Porridge",
+                    110
+                ],
+                "nonveg": [
+                    "Chicken Porridge",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Porridge",
+                    100
+                ]
+            },
+            "1219": {
+                "veg": [
+                    "Lentil Soup",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken and Vegetable Soup",
+                    130
+                ],
+                "vegan": [
+                    "Vegan Lentil Soup",
+                    90
+                ]
+            },
+            "1222": {
+                "veg": [
+                    "Mixed Vegetable Puree",
+                    110
+                ],
+                "nonveg": [
+                    "Minced Meat and Potato",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Mixed Vegetable Puree",
+                    100
+                ]
+            },
+            "1225": {
+                "veg": [
+                    "Mashed Pumpkin",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    110
+                ],
+                "vegan": [
+                    "Mashed Butternut Squash",
+                    70
+                ]
+            },
+            "1255": {
+                "veg": [
+                    "Sweet Potato Khichdi",
+                    130
+                ],
+                "nonveg": [
+                    "Tandoori Chicken",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Lentil Soup",
+                    110
+                ]
+            },
+            "1258": {
+                "veg": [
+                    "Vegetable Upma",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Vegetable Soup",
+                    100
+                ]
+            },
+            "1261": {
+                "veg": [
+                    "Pongal",
+                    110
+                ],
+                "nonveg": [
+                    "Chicken Curry",
+                    140
+                ],
+                "vegan": [
+                    "Vegan Curry",
+                    90
+                ]
+            },
+            "1264": {
+                "veg": [
+                    "Mashed Sweet Potatoes",
+                    90
+                ],
+                "nonveg": [
+                    "Chicken and Rice",
+                    120
+                ],
+                "vegan": [
+                    "Mashed Avocado",
+                    80
+                ]
+            },
+            "1273": {
+                "veg": [
+                    "Rava Kheer",
+                    100
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    130
+                ],
+                "vegan": [
+                    "Vegan Rice Pudding",
+                    90
+                ]
+            },
+            "1276": {
+                "veg": [
+                    "Veggie Dosa",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Dosa",
+                    100
+                ]
+            },
+            "1279": {
+                "veg": [
+                    "Vegetable Khichdi",
+                    130
+                ],
+                "nonveg": [
+                    "Mutton Puree",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Porridge",
+                    110
+                ]
+            },
+            "1282": {
+                "veg": [
+                    "Rice Cereal",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Congee",
+                    150
+                ],
+                "vegan": [
+                    "Vegan Rice Cereal",
+                    100
+                ]
+            }
+        },
+        "children": {
+            "1000": {
+                "veg": [
+                    "Paneer Tikka",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Tikka",
+                    220
+                ],
+                "vegan": [
+                    "Vegetable Skewers",
+                    150
+                ]
+            },
+            "1003": {
+                "veg": [
+                    "Aloo Paratha",
+                    200
+                ],
+                "nonveg": [
+                    "Mini Kebabs",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    180
+                ]
+            },
+            "1006": {
+                "veg": [
+                    "Vegetable Biryani",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    200
+                ]
+            },
+            "1009": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    150
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    190
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    140
+                ]
+            },
+            "1030": {
+                "veg": [
+                    "Hot Chocolate",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    120
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    60
+                ]
+            },
+            "1063": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    160
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    200
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    140
+                ]
+            },
+            "1066": {
+                "veg": [
+                    "Veggie Pizza",
+                    180
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    160
+                ]
+            },
+            "1069": {
+                "veg": [
+                    "Veggie Noodles",
+                    190
+                ],
+                "nonveg": [
+                    "Chicken Noodles",
+                    230
+                ],
+                "vegan": [
+                    "Vegan Noodles",
+                    170
+                ]
+            },
+            "1072": {
+                "veg": [
+                    "Veggie Tacos",
+                    170
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    210
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    150
+                ]
+            },
+            "1114": {
+                "veg": [
+                    "Veggie Burger",
+                    200
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    180
+                ]
+            },
+            "1117": {
+                "veg": [
+                    "Vegetable Stew",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    160
+                ]
+            },
+            "1135": {
+                "veg": [
+                    "Aloo Paratha",
+                    200
+                ],
+                "nonveg": [
+                    "Mini Kebabs",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    180
+                ]
+            },
+            "1147": {
+                "veg": [
+                    "Vegetable Biryani",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    200
+                ]
+            },
+            "1150": {
+                "veg": [
+                    "Hot Chocolate",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    120
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    60
+                ]
+            },
+            "1153": {
+                "veg": [
+                    "Veggie Pizza",
+                    180
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    160
+                ]
+            },
+            "1168": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    160
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    200
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    140
+                ]
+            },
+            "1171": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    150
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    190
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    140
+                ]
+            },
+            "1180": {
+                "veg": [
+                    "Veggie Tacos",
+                    170
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    210
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    150
+                ]
+            },
+            "1183": {
+                "veg": [
+                    "Veggie Burger",
+                    200
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    180
+                ]
+            },
+            "1186": {
+                "veg": [
+                    "Vegetable Stew",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    160
+                ]
+            },
+            "1189": {
+                "veg": [
+                    "Aloo Paratha",
+                    200
+                ],
+                "nonveg": [
+                    "Mini Kebabs",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    180
+                ]
+            },
+            "1192": {
+                "veg": [
+                    "Vegetable Biryani",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    200
+                ]
+            },
+            "1195": {
+                "veg": [
+                    "Hot Chocolate",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    120
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    60
+                ]
+            },
+            "1198": {
+                "veg": [
+                    "Veggie Pizza",
+                    180
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    160
+                ]
+            },
+            "1201": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    160
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    200
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    140
+                ]
+            },
+            "1204": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    150
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    190
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    140
+                ]
+            },
+            "1207": {
+                "veg": [
+                    "Veggie Tacos",
+                    170
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    210
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    150
+                ]
+            },
+            "1210": {
+                "veg": [
+                    "Veggie Burger",
+                    200
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    180
+                ]
+            },
+            "1213": {
+                "veg": [
+                    "Vegetable Stew",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    160
+                ]
+            },
+            "1216": {
+                "veg": [
+                    "Aloo Paratha",
+                    200
+                ],
+                "nonveg": [
+                    "Mini Kebabs",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    180
+                ]
+            },
+            "1219": {
+                "veg": [
+                    "Vegetable Biryani",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    200
+                ]
+            },
+            "1222": {
+                "veg": [
+                    "Hot Chocolate",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    120
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    60
+                ]
+            },
+            "1225": {
+                "veg": [
+                    "Veggie Pizza",
+                    180
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    160
+                ]
+            },
+            "1237": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    160
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    200
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    140
+                ]
+            },
+            "1240": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    150
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    190
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    140
+                ]
+            },
+            "1243": {
+                "veg": [
+                    "Veggie Tacos",
+                    170
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    210
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    150
+                ]
+            },
+            "1246": {
+                "veg": [
+                    "Veggie Burger",
+                    200
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    180
+                ]
+            },
+            "1249": {
+                "veg": [
+                    "Vegetable Stew",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    160
+                ]
+            },
+            "1252": {
+                "veg": [
+                    "Aloo Paratha",
+                    200
+                ],
+                "nonveg": [
+                    "Mini Kebabs",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    180
+                ]
+            },
+            "1255": {
+                "veg": [
+                    "Vegetable Biryani",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    200
+                ]
+            },
+            "1258": {
+                "veg": [
+                    "Hot Chocolate",
+                    80
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    120
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    60
+                ]
+            },
+            "1261": {
+                "veg": [
+                    "Veggie Pizza",
+                    180
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    160
+                ]
+            },
+            "1264": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    160
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    200
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    140
+                ]
+            },
+            "1273": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    150
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    190
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    140
+                ]
+            },
+            "1276": {
+                "veg": [
+                    "Veggie Tacos",
+                    170
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    210
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    150
+                ]
+            },
+            "1279": {
+                "veg": [
+                    "Veggie Burger",
+                    200
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    180
+                ]
+            },
+            "1282": {
+                "veg": [
+                    "Vegetable Stew",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    160
+                ]
+            }
+        },
+        "adolescents": {
+            "1000": {
+                "veg": [
+                    "Paneer Tikka",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Tikka",
+                    320
+                ],
+                "vegan": [
+                    "Vegetable Skewers",
+                    240
+                ]
+            },
+            "1003": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    220
+                ]
+            },
+            "1006": {
+                "veg": [
+                    "Vegetable Biryani",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1009": {
+                "veg": [
+                    "Pasta with Tomato Sauce",
+                    350
+                ],
+                "nonveg": [
+                    "Chicken Pasta",
+                    390
+                ],
+                "vegan": [
+                    "Vegan Pasta",
+                    310
+                ]
+            },
+            "1030": {
+                "veg": [
+                    "Hot Chocolate",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    160
+                ]
+            },
+            "1063": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    240
+                ]
+            },
+            "1066": {
+                "veg": [
+                    "Veggie Pizza",
+                    280
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    260
+                ]
+            },
+            "1069": {
+                "veg": [
+                    "Veggie Noodles",
+                    320
+                ],
+                "nonveg": [
+                    "Chicken Noodles",
+                    360
+                ],
+                "vegan": [
+                    "Vegan Noodles",
+                    280
+                ]
+            },
+            "1072": {
+                "veg": [
+                    "Veggie Tacos",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    260
+                ]
+            },
+            "1114": {
+                "veg": [
+                    "Veggie Burger",
+                    350
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    390
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    310
+                ]
+            },
+            "1117": {
+                "veg": [
+                    "Vegetable Stew",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    260
+                ]
+            },
+            "1135": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    220
+                ]
+            },
+            "1147": {
+                "veg": [
+                    "Vegetable Biryani",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1150": {
+                "veg": [
+                    "Hot Chocolate",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    160
+                ]
+            },
+            "1153": {
+                "veg": [
+                    "Veggie Pizza",
+                    280
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    260
+                ]
+            },
+            "1168": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    240
+                ]
+            },
+            "1171": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    250
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    290
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    230
+                ]
+            },
+            "1180": {
+                "veg": [
+                    "Veggie Tacos",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    260
+                ]
+            },
+            "1183": {
+                "veg": [
+                    "Veggie Burger",
+                    350
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    390
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    310
+                ]
+            },
+            "1186": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    220
+                ]
+            },
+            "1192": {
+                "veg": [
+                    "Vegetable Biryani",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1195": {
+                "veg": [
+                    "Hot Chocolate",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    160
+                ]
+            },
+            "1198": {
+                "veg": [
+                    "Veggie Pizza",
+                    280
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    260
+                ]
+            },
+            "1201": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    240
+                ]
+            },
+            "1204": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    250
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    290
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    230
+                ]
+            },
+            "1207": {
+                "veg": [
+                    "Veggie Tacos",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    260
+                ]
+            },
+            "1210": {
+                "veg": [
+                    "Veggie Burger",
+                    350
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    390
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    310
+                ]
+            },
+            "1213": {
+                "veg": [
+                    "Vegetable Stew",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    260
+                ]
+            },
+            "1216": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    220
+                ]
+            },
+            "1219": {
+                "veg": [
+                    "Vegetable Biryani",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1222": {
+                "veg": [
+                    "Hot Chocolate",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    160
+                ]
+            },
+            "1225": {
+                "veg": [
+                    "Veggie Pizza",
+                    280
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    260
+                ]
+            },
+            "1237": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    240
+                ]
+            },
+            "1240": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    250
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    290
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    230
+                ]
+            },
+            "1243": {
+                "veg": [
+                    "Veggie Tacos",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    260
+                ]
+            },
+            "1246": {
+                "veg": [
+                    "Veggie Burger",
+                    350
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    390
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    310
+                ]
+            },
+            "1249": {
+                "veg": [
+                    "Vegetable Stew",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    260
+                ]
+            },
+            "1252": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    220
+                ]
+            },
+            "1255": {
+                "veg": [
+                    "Vegetable Biryani",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1258": {
+                "veg": [
+                    "Hot Chocolate",
+                    180
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Hot Chocolate",
+                    160
+                ]
+            },
+            "1261": {
+                "veg": [
+                    "Veggie Pizza",
+                    280
+                ],
+                "nonveg": [
+                    "Mini Hot Dogs",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Veggie Pizza",
+                    260
+                ]
+            },
+            "1264": {
+                "veg": [
+                    "Veggie Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    240
+                ]
+            },
+            "1273": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    250
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    290
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    230
+                ]
+            },
+            "1276": {
+                "veg": [
+                    "Veggie Tacos",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    260
+                ]
+            },
+            "1279": {
+                "veg": [
+                    "Veggie Burger",
+                    350
+                ],
+                "nonveg": [
+                    "Chicken Nuggets",
+                    390
+                ],
+                "vegan": [
+                    "Vegan Veggie Burger",
+                    310
+                ]
+            },
+            "1282": {
+                "veg": [
+                    "Vegetable Stew",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    260
+                ]
+            }
+        },
+        "adults": {
+            "1000": {
+                "veg": [
+                    "Paneer Tikka",
+                    280
+                ],
+                "nonveg": [
+                    "Tandoori Chicken",
+                    320
+                ],
+                "vegan": [
+                    "Vegetable Biryani",
+                    240
+                ]
+            },
+            "1003": {
+                "veg": [
+                    "Masala Dosa",
+                    260
+                ],
+                "nonveg": [
+                    "Butter Chicken",
+                    300
+                ],
+                "vegan": [
+                    "Aloo Gobi",
+                    220
+                ]
+            },
+            "1006": {
+                "veg": [
+                    "Tomato Soup",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    340
+                ],
+                "vegan": [
+                    "Vegetable Korma",
+                    180
+                ]
+            },
+            "1009": {
+                "veg": [
+                    "Palak Paneer",
+                    220
+                ],
+                "nonveg": [
+                    "Mutton Curry",
+                    280
+                ],
+                "vegan": [
+                    "Baingan Bharta",
+                    200
+                ]
+            },
+            "1030": {
+                "veg": [
+                    "Chai Tea",
+                    60
+                ],
+                "nonveg": [
+                    "Mutton Stew",
+                    160
+                ],
+                "vegan": [
+                    "Masala Chai",
+                    80
+                ]
+            },
+            "1063": {
+                "veg": [
+                    "Vegetable Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Curry",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Tikka Masala",
+                    240
+                ]
+            },
+            "1066": {
+                "veg": [
+                    "Vegetable Pulao",
+                    220
+                ],
+                "nonveg": [
+                    "Fish Curry",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Samosa",
+                    180
+                ]
+            },
+            "1069": {
+                "veg": [
+                    "Veggie Noodles",
+                    280
+                ],
+                "nonveg": [
+                    "Prawn Masala",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Dal Tadka",
+                    240
+                ]
+            },
+            "1072": {
+                "veg": [
+                    "Veggie Tacos",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Tandoori",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Rajma",
+                    220
+                ]
+            },
+            "1114": {
+                "veg": [
+                    "Vegetable Curry",
+                    300
+                ],
+                "nonveg": [
+                    "Chicken Tikka",
+                    340
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1117": {
+                "veg": [
+                    "Vegetable Stew",
+                    220
+                ],
+                "nonveg": [
+                    "Mutton Stew",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Chana Masala",
+                    200
+                ]
+            },
+            "1135": {
+                "veg": [
+                    "Mushroom Soup",
+                    120
+                ],
+                "nonveg": [
+                    "Clam Chowder",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Tomato Soup",
+                    100
+                ]
+            },
+            "1147": {
+                "veg": [
+                    "Hot Pot",
+                    180
+                ],
+                "nonveg": [
+                    "Hot Pot with Meat",
+                    220
+                ],
+                "vegan": [
+                    "Vegan Hot Pot",
+                    160
+                ]
+            },
+            "1150": {
+                "veg": [
+                    "Vegetable Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Stir-Fry",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    240
+                ]
+            },
+            "1153": {
+                "veg": [
+                    "Vegetable Pho",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Pho",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Pho",
+                    220
+                ]
+            },
+            "1168": {
+                "veg": [
+                    "Vegetable Goulash",
+                    280
+                ],
+                "nonveg": [
+                    "lamb Goulash",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Goulash",
+                    260
+                ]
+            },
+            "1171": {
+                "veg": [
+                    "Vegetable Chili",
+                    220
+                ],
+                "nonveg": [
+                    "Mutton Keema",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Korma",
+                    200
+                ]
+            },
+            "1180": {
+                "veg": [
+                    "Vegetable Sushi",
+                    240
+                ],
+                "nonveg": [
+                    "Sushi with Fish",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Sushi",
+                    220
+                ]
+            },
+            "1183": {
+                "veg": [
+                    "Vegetable Pho",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Pho",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Pho",
+                    220
+                ]
+            },
+            "1186": {
+                "veg": [
+                    "Vegetable Biryani",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Pulao",
+                    260
+                ]
+            },
+            "1189": {
+                "veg": [
+                    "Vegetable Stir-Fry",
+                    260
+                ],
+                "nonveg": [
+                    "lamb Stir-Fry",
+                    300
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry",
+                    240
+                ]
+            },
+            "1192": {
+                "veg": [
+                    "Vegetable Jambalaya",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Jambalaya",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Jambalaya",
+                    260
+                ]
+            },
+            "1195": {
+                "veg": [
+                    "Vegetable Pulao",
+                    240
+                ],
+                "nonveg": [
+                    "Prawn Pulao",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Pulao",
+                    220
+                ]
+            },
+            "1198": {
+                "veg": [
+                    "Veggie Pot Pie",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Pot Pie",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Pot Pie",
+                    240
+                ]
+            },
+            "1201": {
+                "veg": [
+                    "Vegetable Coq au Vin",
+                    280
+                ],
+                "nonveg": [
+                    "Coq au Vin",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Coq au Vin",
+                    260
+                ]
+            },
+            "1204": {
+                "veg": [
+                    "Vegetable Hot Pot",
+                    240
+                ],
+                "nonveg": [
+                    "Hot Pot with Meat",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Hot Pot",
+                    220
+                ]
+            },
+            "1207": {
+                "veg": [
+                    "Vegetable Fondue",
+                    260
+                ],
+                "nonveg": [
+                    "Fondue",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Fondue",
+                    240
+                ]
+            },
+            "1210": {
+                "veg": [
+                    "Vegetable Pulao",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Pulao",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Pulao",
+                    200
+                ]
+            },
+            "1213": {
+                "veg": [
+                    "Paneer Tikka",
+                    280
+                ],
+                "nonveg": [
+                    "Tandoori Chicken",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Tikka",
+                    240
+                ]
+            },
+            "1216": {
+                "veg": [
+                    "Vegetable Biryani",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1219": {
+                "veg": [
+                    "Veggie Curry",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Curry",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Curry",
+                    220
+                ]
+            },
+            "1222": {
+                "veg": [
+                    "Veggie Noodles",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Noodles",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Noodles",
+                    240
+                ]
+            },
+            "1225": {
+                "veg": [
+                    "Veggie Stew",
+                    220
+                ],
+                "nonveg": [
+                    "Mutton Stew",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    200
+                ]
+            },
+            "1237": {
+                "veg": [
+                    "Vegan Pho",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Pho",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Pho",
+                    220
+                ]
+            },
+            "1240": {
+                "veg": [
+                    "Veggie Sushi",
+                    260
+                ],
+                "nonveg": [
+                    "Sushi with Fish",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Sushi",
+                    240
+                ]
+            },
+            "1243": {
+                "veg": [
+                    "Vegetable Samosa",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Samosa",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Samosa",
+                    200
+                ]
+            },
+            "1246": {
+                "veg": [
+                    "Vegetable Biryani",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    220
+                ]
+            },
+            "1249": {
+                "veg": [
+                    "Vegetable Korma",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Korma",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Korma",
+                    240
+                ]
+            },
+            "1252": {
+                "veg": [
+                    "Veggie Wrap",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Wrap",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Wrap",
+                    200
+                ]
+            },
+            "1255": {
+                "veg": [
+                    "Veggie Curry",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Curry",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Curry",
+                    220
+                ]
+            },
+            "1258": {
+                "veg": [
+                    "Vegetable Noodles",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Noodles",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Noodles",
+                    240
+                ]
+            },
+            "1261": {
+                "veg": [
+                    "Vegetable Tikka",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Tikka",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Tikka",
+                    240
+                ]
+            },
+            "1264": {
+                "veg": [
+                    "Vegetable Stew",
+                    220
+                ],
+                "nonveg": [
+                    "Mutton Stew",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    200
+                ]
+            },
+            "1273": {
+                "veg": [
+                    "Vegetable Biryani",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    220
+                ]
+            },
+            "1276": {
+                "veg": [
+                    "Veggie Tacos",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    240
+                ]
+            },
+            "1279": {
+                "veg": [
+                    "Vegetable Stir-Fry",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Stir-Fry",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Stir-Fry",
+                    200
+                ]
+            },
+            "1282": {
+                "veg": [
+                    "Vegetable Curry",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Curry",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Curry",
+                    220
+                ]
+            }
+        },
+        "old_adults": {
+            "1000": {
+                "veg": [
+                    "Khichdi",
+                    220
+                ],
+                "nonveg": [
+                    "Tandoori Fish",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Lentil Soup",
+                    200
+                ]
+            },
+            "1003": {
+                "veg": [
+                    "Poha",
+                    180
+                ],
+                "nonveg": [
+                    "Mutton Kebabs",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Upma",
+                    160
+                ]
+            },
+            "1006": {
+                "veg": [
+                    "Vegetable Pulao",
+                    240
+                ],
+                "nonveg": [
+                    "Butter Chicken",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Vegetable Curry",
+                    220
+                ]
+            },
+            "1009": {
+                "veg": [
+                    "Spinach and Cheese Stuffed Mushrooms",
+                    260
+                ],
+                "nonveg": [
+                    "Roast lamb",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Ratatouille",
+                    240
+                ]
+            },
+            "1030": {
+                "veg": [
+                    "Masala Chai",
+                    60
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Herbal Tea",
+                    80
+                ]
+            },
+            "1063": {
+                "veg": [
+                    "Bhindi Masala",
+                    220
+                ],
+                "nonveg": [
+                    "Lamb Curry",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Chickpea Curry",
+                    200
+                ]
+            },
+            "1066": {
+                "veg": [
+                    "Vegetable Biryani",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1069": {
+                "veg": [
+                    "Aloo Gobi",
+                    220
+                ],
+                "nonveg": [
+                    "Fish Curry",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Tofu and Vegetable Stir-Fry",
+                    200
+                ]
+            },
+            "1072": {
+                "veg": [
+                    "Dal Tadka",
+                    200
+                ],
+                "nonveg": [
+                    "Chicken Tikka Masala",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Lentil Stew",
+                    180
+                ]
+            },
+            "1114": {
+                "veg": [
+                    "Mixed Vegetable Sabzi",
+                    260
+                ],
+                "nonveg": [
+                    "Keema Matar",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Mixed Vegetable Sabzi",
+                    240
+                ]
+            },
+            "1117": {
+                "veg": [
+                    "Mushroom Soup",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Minestrone Soup",
+                    100
+                ]
+            },
+            "1135": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    240
+                ]
+            },
+            "1147": {
+                "veg": [
+                    "Vegetable Biryani",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1150": {
+                "veg": [
+                    "Masala Chai",
+                    60
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Herbal Tea",
+                    80
+                ]
+            },
+            "1153": {
+                "veg": [
+                    "Veggie Pizza",
+                    220
+                ],
+                "nonveg": [
+                    "Pepperoni Pizza",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Margherita Pizza",
+                    200
+                ]
+            },
+            "1168": {
+                "veg": [
+                    "Methi Thepla",
+                    200
+                ],
+                "nonveg": [
+                    "Lamb Korma",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Methi Thepla",
+                    180
+                ]
+            },
+            "1171": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    220
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    200
+                ]
+            },
+            "1180": {
+                "veg": [
+                    "Veggie Tacos",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    220
+                ]
+            },
+            "1183": {
+                "veg": [
+                    "Veggie Burger",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Burger",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Burger",
+                    240
+                ]
+            },
+            "1186": {
+                "veg": [
+                    "Vegetable Stew",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    200
+                ]
+            },
+            "1189": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    240
+                ]
+            },
+            "1192": {
+                "veg": [
+                    "Vegetable Biryani",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1195": {
+                "veg": [
+                    "Masala Chai",
+                    60
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Herbal Tea",
+                    80
+                ]
+            },
+            "1198": {
+                "veg": [
+                    "Veggie Pizza",
+                    220
+                ],
+                "nonveg": [
+                    "Pepperoni Pizza",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Margherita Pizza",
+                    200
+                ]
+            },
+            "1201": {
+                "veg": [
+                    "Bhindi Masala",
+                    220
+                ],
+                "nonveg": [
+                    "Lamb Curry",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Chickpea Curry",
+                    200
+                ]
+            },
+            "1204": {
+                "veg": [
+                    "Mushroom Soup",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Minestrone Soup",
+                    100
+                ]
+            },
+            "1207": {
+                "veg": [
+                    "Veggie Tacos",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    220
+                ]
+            },
+            "1210": {
+                "veg": [
+                    "Mixed Vegetable Sabzi",
+                    260
+                ],
+                "nonveg": [
+                    "Keema Matar",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Mixed Vegetable Sabzi",
+                    240
+                ]
+            },
+            "1213": {
+                "veg": [
+                    "Methi Thepla",
+                    200
+                ],
+                "nonveg": [
+                    "Lamb Korma",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Methi Thepla",
+                    180
+                ]
+            },
+            "1216": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    240
+                ]
+            },
+            "1219": {
+                "veg": [
+                    "Vegetable Biryani",
+                    280
+                ],
+                "nonveg": [
+                    "Chicken Biryani",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Biryani",
+                    260
+                ]
+            },
+            "1222": {
+                "veg": [
+                    "Masala Chai",
+                    60
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Herbal Tea",
+                    80
+                ]
+            },
+            "1225": {
+                "veg": [
+                    "Veggie Pizza",
+                    220
+                ],
+                "nonveg": [
+                    "Pepperoni Pizza",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Margherita Pizza",
+                    200
+                ]
+            },
+            "1237": {
+                "veg": [
+                    "Bhindi Masala",
+                    220
+                ],
+                "nonveg": [
+                    "Lamb Curry",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Chickpea Curry",
+                    200
+                ]
+            },
+            "1240": {
+                "veg": [
+                    "Mushroom Soup",
+                    120
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Minestrone Soup",
+                    100
+                ]
+            },
+            "1243": {
+                "veg": [
+                    "Peanut Butter Sandwich",
+                    220
+                ],
+                "nonveg": [
+                    "Mini Meatballs",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Peanut Butter Sandwich",
+                    200
+                ]
+            },
+            "1246": {
+                "veg": [
+                    "Veggie Tacos",
+                    240
+                ],
+                "nonveg": [
+                    "Chicken Tacos",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Tacos",
+                    220
+                ]
+            },
+            "1249": {
+                "veg": [
+                    "Veggie Burger",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Burger",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Burger",
+                    240
+                ]
+            },
+            "1252": {
+                "veg": [
+                    "Vegetable Stew",
+                    220
+                ],
+                "nonveg": [
+                    "Chicken Stew",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Stew",
+                    200
+                ]
+            },
+            "1255": {
+                "veg": [
+                    "Khichdi",
+                    220
+                ],
+                "nonveg": [
+                    "Tandoori Fish",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Lentil Soup",
+                    200
+                ]
+            },
+            "1258": {
+                "veg": [
+                    "Poha",
+                    180
+                ],
+                "nonveg": [
+                    "Mutton Kebabs",
+                    240
+                ],
+                "vegan": [
+                    "Vegan Upma",
+                    160
+                ]
+            },
+            "1261": {
+                "veg": [
+                    "Vegetable Pulao",
+                    240
+                ],
+                "nonveg": [
+                    "Butter Chicken",
+                    280
+                ],
+                "vegan": [
+                    "Vegan Vegetable Curry",
+                    220
+                ]
+            },
+            "1264": {
+                "veg": [
+                    "Spinach and Cheese Stuffed Mushrooms",
+                    260
+                ],
+                "nonveg": [
+                    "Roast lamb",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Ratatouille",
+                    240
+                ]
+            },
+            "1273": {
+                "veg": [
+                    "Masala Chai",
+                    60
+                ],
+                "nonveg": [
+                    "Chicken Soup",
+                    160
+                ],
+                "vegan": [
+                    "Vegan Herbal Tea",
+                    80
+                ]
+            },
+            "1276": {
+                "veg": [
+                    "Bhindi Masala",
+                    220
+                ],
+                "nonveg": [
+                    "Lamb Curry",
+                    260
+                ],
+                "vegan": [
+                    "Vegan Chickpea Curry",
+                    200
+                ]
+            },
+            "1279": {
+                "veg": [
+                    "Vegetable Biryani",
+                    280
+                ],
+                "nonveg": [
+                    "Fish Curry",
+                    320
+                ],
+                "vegan": [
+                    "Vegan Tofu and Vegetable Stir-Fry",
+                    260
+                ]
+            },
+            "1282": {
+                "veg": [
+                    "Aloo Paratha",
+                    260
+                ],
+                "nonveg": [
+                    "Chicken Kebabs",
+                    300
+                ],
+                "vegan": [
+                    "Vegan Paratha",
+                    240
+                ]
+            }
+        }
+    }
+}
